@@ -1,1 +1,1 @@
-bash -c "cd D:/IOS/kula67.github.io; ./update.sh;"
+bash -c "cd https://kulasusu.github.io/nam72/; ./update.sh;"
